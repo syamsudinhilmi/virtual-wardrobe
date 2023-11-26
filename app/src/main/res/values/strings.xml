@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">Virtual Wardrobe</string>
+	<string name="profile"><![CDATA[https://firebasestorage.googleapis.com/v0/b/bangkit-dashboard/o/production%2F2023-B2%2Fprofiles%2Fcb66e703-3261-475f-a8aa-d0d023e9c3f4.jpg?alt=media&token=4caf4c51-3355-4b33-bcf6-352c6ef25168]]></string>
+	<string name="back">Back</string>
+	<string name="add_to_cart">Add to Cart</string>
+	<string name="cart">Cart</string>
+</resources>
